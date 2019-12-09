@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const trello = require('./trello')
 const args = process.argv.slice(2)
 const run = async () => {
